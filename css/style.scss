@@ -1,0 +1,17 @@
+@use 'fonts';
+
+body {
+
+    font-family: fonts.$primaryFont;
+}
+
+h1 {
+    font-size: 96px;
+    font-weight: 600;
+
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
